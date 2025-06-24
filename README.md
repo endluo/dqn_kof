@@ -1,5 +1,5 @@
 # dqn_kof
-双DQN训练拳皇
+双DQN训练拳皇:
 
 capture文件用于获取图像
 
